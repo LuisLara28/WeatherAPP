@@ -34,7 +34,7 @@ const WeatherInformation = () => {
         }
         handleCityWeatherInfo();
         setLoader(false);
-    }, [])
+    }, [city])
 
 
     return (
