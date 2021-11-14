@@ -1,0 +1,10 @@
+#weather-card{
+    transition: transform 400ms;
+
+}
+
+#weather-card:hover{
+    transform: scale(1.03);
+    background-color: #6E85B2;
+
+}
